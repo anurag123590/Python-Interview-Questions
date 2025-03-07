@@ -1,0 +1,14 @@
+ **Performance Optimization**
+
+
+- How do you improve Python code performance?
+- What are some Python optimization techniques?
+- How does caching work in Python?
+- What are list comprehensions and when should you use them?
+-What are some ways to reduce memory usage in Python?
+-How do you optimize list operations in Python?
+-What is the difference between map(), filter(), and reduce()?
+-How do you use lru_cache to optimize performance?
+-What are some ways to speed up dictionary lookups?
+-How does Python's memory model affect performance?
+-What is the numpy library, and why is it faster than lists?
