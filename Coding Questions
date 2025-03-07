@@ -1,0 +1,131 @@
+ *Easy Python Coding Questions**
+
+
+1. **Reverse a String**  
+   - Input: `"hello"`
+   - Output: `"olleh"`
+   
+2. **Check if a Number is Prime**  
+   - Input: `7`
+   - Output: `True`
+
+3. **Find the Factorial of a Number**  
+   - Input: `5`
+   - Output: `120`
+
+4. **Find the Largest Element in a List**  
+   - Input: `[1, 2, 3, 4, 5]`
+   - Output: `5`
+
+5. **Check if a String is a Palindrome**  
+   - Input: `"racecar"`
+   - Output: `True`
+
+6. **Find the Second Largest Number in a List**  
+   - Input: `[10, 20, 4, 45, 99]`
+   - Output: `45`
+
+7. **Remove Duplicates from a List**  
+   - Input: `[1, 2, 2, 3, 4, 4, 5]`
+   - Output: `[1, 2, 3, 4, 5]`
+
+8. **Find the Missing Number in an Array** *(Given numbers from 1 to N with one missing)*
+   - Input: `[1, 2, 3, 5]`
+   - Output: `4`
+
+9. **Find the Most Frequent Element in a List**  
+   - Input: `[1, 2, 3, 2, 4, 2, 5]`
+   - Output: `2`
+
+10. **Merge Two Sorted Lists**  
+    - Input: `[1, 3, 5]`, `[2, 4, 6]`
+    - Output: `[1, 2, 3, 4, 5, 6]`
+
+---
+
+**Medium Python Coding Questions**
+
+
+11. **Find the First Non-Repeating Character in a String**  
+    - Input: `"aabbcdd"`
+    - Output: `"c"`
+
+12. **Check if Two Strings are Anagrams**  
+    - Input: `"listen", "silent"`
+    - Output: `True`
+
+13. **Implement FizzBuzz (Multiples of 3 → Fizz, 5 → Buzz, Both → FizzBuzz)**  
+    - Input: `15`
+    - Output:  
+      ```
+      1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
+      ```
+
+14. **Find All Pairs in an Array That Sum to a Target**  
+    - Input: `[1, 2, 3, 4, 5]`, `target = 6`
+    - Output: `[(1, 5), (2, 4)]`
+
+15. **Implement a Linked List in Python**  
+    - Operations: Insert, Delete, Search
+
+16. **Find the Intersection of Two Lists**  
+    - Input: `[1, 2, 3, 4]`, `[3, 4, 5, 6]`
+    - Output: `[3, 4]`
+
+17. **Find the Longest Substring Without Repeating Characters**  
+    - Input: `"abcabcbb"`
+    - Output: `"abc"`
+
+18. **Implement Binary Search Algorithm**  
+    - Input: Sorted list `[1, 2, 3, 4, 5]`, target `3`
+    - Output: Index `2`
+
+19. **Rotate an Array to the Right by K Steps**  
+    - Input: `[1, 2, 3, 4, 5]`, `k = 2`
+    - Output: `[4, 5, 1, 2, 3]`
+
+20. **Check if a Given Linked List has a Cycle**  
+    - Input: `Linked List`
+    - Output: `True/False`
+
+---
+
+**Hard Python Coding Questions**
+
+
+21. **Find the Maximum Subarray Sum (Kadane's Algorithm)**  
+    - Input: `[-2,1,-3,4,-1,2,1,-5,4]`
+    - Output: `6` (subarray `[4,-1,2,1]`)
+
+22. **Find the Kth Largest Element in an Array**  
+    - Input: `[3,2,1,5,6,4]`, `k = 2`
+    - Output: `5`
+
+23. **Implement LRU Cache (Least Recently Used Cache)**
+    - Operations: `get()`, `put()`
+
+24. **Find the Longest Palindromic Substring**  
+    - Input: `"babad"`
+    - Output: `"bab"` or `"aba"`
+
+25. **Implement a Min Stack (Stack with O(1) min() operation)**  
+    - Operations: `push()`, `pop()`, `top()`, `getMin()`
+
+26. **Check if a Given String is Valid Parentheses**  
+    - Input: `"({[]})"`
+    - Output: `True`
+
+27. **Trapping Rain Water Problem**  
+    - Input: `[0,1,0,2,1,0,1,3,2,1,2,1]`
+    - Output: `6`
+
+28. **Serialize and Deserialize a Binary Tree**  
+    - Convert a tree to a string and back.
+
+29. **Find the Shortest Path in a Maze (BFS/DFS Algorithm)**  
+    - Given a grid with obstacles, find the shortest path from top-left to bottom-right.
+
+30. **Merge K Sorted Lists**  
+    - Input: `[[1,4,5],[1,3,4],[2,6]]`
+    - Output: `[1,1,2,3,4,4,5,6]`
+
