@@ -1,0 +1,17 @@
+**Functions and OOP Concepts**
+
+
+- What are *args and **kwargs in Python?
+- What is the difference between a function and a method?
+- What is the difference between `staticmethod` and `classmethod`?
+- What is inheritance in Python? Explain types of inheritance.
+- What are magic methods in Python? Give examples.
+- How does Python handle multiple inheritance?
+- What is the difference between `@staticmethod`, `@classmethod`, and an instance method?
+-What is the difference between function overloading and function overriding in Python?
+-What is the purpose of the self keyword in Python?
+-What is a lambda function, and how is it different from a normal function?
+-What is the difference between abstraction and encapsulation?
+-What is method resolution order (MRO) in Python?
+-What is the super() function, and how does it work?
+-How do you implement operator overloading in Python?
