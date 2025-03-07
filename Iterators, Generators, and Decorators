@@ -1,0 +1,15 @@
+ **Iterators, Generators, and Decorators**
+
+
+- What are iterators and how do they work?
+- How do generators work? Explain with an example.
+- What is the yield keyword in Python?
+- How do decorators work in Python?
+- What are closures in Python?
+-What is the difference between an iterable and an iterator?
+-How do you manually iterate over an iterator?
+-How do you create an infinite generator in Python?
+-Can a generator be restarted? Why or why not?
+-What are function closures in Python?
+-What are some real-world use cases of decorators?
+-What is the functools.wraps decorator used for?
