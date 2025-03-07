@@ -1,0 +1,14 @@
+ **File Handling and Exception Handling**
+
+
+- How do you handle file operations in Python?
+- How does exception handling work in Python?
+- What is the difference between `try-except` and `try-finally`?
+- What is the use of `with` statement in file handling?
+-What is the difference between rb, r+, and w+ file modes in Python?
+-How do you read and write JSON files in Python?
+-How do you handle multiple exceptions in Python?
+-What happens if an exception is not handled?
+-What are custom exceptions, and how do you define them?
+-How can you log exceptions in Python?
+-How do you handle resource cleanup in Python?
