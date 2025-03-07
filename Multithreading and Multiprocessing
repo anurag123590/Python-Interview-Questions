@@ -1,0 +1,14 @@
+ **Multithreading and Multiprocessing**
+
+
+- What is the difference between threading and multiprocessing in Python?
+- What is the Global Interpreter Lock (GIL)?
+- How can you achieve parallelism in Python?
+- What are the different ways to achieve multithreading in Python?
+-What is the difference between concurrency and parallelism?
+-Why doesn’t multithreading improve performance in Python?
+-How do you share data between multiple processes in Python?
+-What is the difference between Thread and Process in Python?
+-How does the queue.Queue module work in Python threading?
+-What is a race condition, and how do you prevent it?
+-How do you implement thread synchronization in Python?
