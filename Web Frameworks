@@ -1,0 +1,13 @@
+**Web Frameworks (Django/Flask)**
+- What is the difference between Django and Flask?
+- What is middleware in Django?
+- What is the Django ORM?
+- How do you handle authentication in Django?
+- Explain Django’s request-response cycle.
+-What are Django signals, and how are they used?
+-How do you create a REST API in Django?
+-What is CSRF protection, and how does Django handle it?
+-What is the difference between function-based views (FBV) and class-based views (CBV) in Django?
+-How do you handle static files in Django?
+-How does Flask handle request handling compared to Django?
+-What is the purpose of middleware in Django?
