@@ -1,0 +1,15 @@
+**Data Structures and Collections**
+
+
+- What are Python's built-in data structures?
+- What is the difference between a list, tuple, set, and dictionary?
+- How would you implement a stack and queue in Python?
+- What is the difference between `OrderedDict` and a normal dictionary?
+- How do you merge two dictionaries in Python?
+-How do you remove duplicates from a list while maintaining order?
+-What is the difference between extend() and append() in a list?
+-How do you reverse a string in Python?
+-How does Python implement a hash table internally?
+-What is the difference between frozenset and set in Python?
+-How do you sort a dictionary by its values?
+-What are list comprehensions, and how are they useful?
