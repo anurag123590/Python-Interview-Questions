@@ -1,0 +1,17 @@
+*Basic Python Concepts**
+
+
+- What are Python’s key features?
+- How is Python an interpreted language?
+- Explain the difference between `deepcopy()` and `copy()`.
+- What is the difference between `is` and `==` in Python?
+- How does Python handle memory management?
+- What are Python’s built-in data types?
+- What is the difference between a list and a tuple?
+-What are Python’s built-in mutable and immutable data types?
+-What is the difference between Python 2 and Python 3?
+-How does Python manage memory? What is garbage collection?
+-What are Python’s reserved keywords?
+-What is the difference between pass, continue, and break?
+-How do you swap two variables in Python without using a third variable?
+-What is the purpose of the dir() function in Python?
