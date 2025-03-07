@@ -1,0 +1,13 @@
+**Python and Databases**
+
+
+- How do you connect Python to a database?
+- What is an ORM and how does it work?
+- How do you execute raw SQL queries in Python?
+-How do you prevent SQL injection in Python?
+-What are transactions in databases, and how does Python handle them?
+-How do you fetch only the first N rows from a database query in Python?
+-How do you use sqlalchemy to interact with databases?
+-What is connection pooling in databases, and how do you implement it in Python?
+-What is an index in a database, and how does it improve performance?
+-What are the advantages of using an ORM in Python?
